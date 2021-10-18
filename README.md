@@ -4,7 +4,7 @@ Here wheat , sugarcane and rice have been focussed in different popular countrie
 Visulaization have been done with the help of line plot graph to make it easy to understand.
 
 ## Sugarcane
-I have taken an example of Nigeria and then made an analysis of the production. Nigeria is self sufficient when comes to Sugarcane and it also exportSugarcane to different countries.
+I have taken an example of Nigeria and then made an analysis of the production. Nigeria is self sufficient when comes to Sugarcane and it also exports Sugarcane to different countries.
 ## Wheat
 Visulaized the production of wheat in South Korea for 60 years. South Korea is not self sufficient when comes to wheat hence imports wheat from US the most.
 ## Rice
